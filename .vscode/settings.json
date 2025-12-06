@@ -1,0 +1,8 @@
+{
+  // กำหนดตำแหน่ง sidebar (explorer) อยู่ด้านซ้าย
+  "workbench.sideBar.location": "left",
+  
+  // กำหนดตำแหน่ง panel (AI chat) อยู่ด้านขวา
+  "workbench.panel.defaultLocation": "right"
+}
+
